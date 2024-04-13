@@ -42,6 +42,23 @@
 - echo can take multiple parameters.
 - echo is marginally faster than print.
 
+## Data types ##
+- String
+- Integer
+- Float
+- Boolean
+- Array
+- Object
+- NULL
+
+**var_dump & print_r**
+- In PHP, var_dump() and print_r() are both functions that display the contents of a variable.
+- var_dump() provides more detailed information about a variable, including data types and sizes.
+- var_dump() displays values along with data types as output. 
+- print_r() displays human-readable information about a variable.
+- print_r() displays only value as output.
+- print_r() mostly use in array.
+
 
 
 
