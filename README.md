@@ -37,10 +37,10 @@
 
 
 ## echo vs print ##   
-    - echo & print are more or less the same
-    - echo has no return value while print has a return value of 1.
-    - echo can take multiple parameters.
-    - echo is marginally faster than print.
+- echo & print are more or less the same
+- echo has no return value while print has a return value of 1.
+- echo can take multiple parameters.
+- echo is marginally faster than print.
 
 
 
