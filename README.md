@@ -26,14 +26,22 @@
         - name can only contain alpha-numeric character and underscore.
         - names are **case sensitive**. e.r.: $name and $Name are different variables.
     
-    Appropriate way  | Wrong Way
-    ------------- | -------------
-    $testname  | Stest name
-    $test_name  | $99testname
-    $_testname  | $test%name
-    $test-name  | -
-    $testName  | -
-    $testname99  | -
+        Appropriate way  | Wrong Way
+        ------------- | -------------
+        $testname  | $test name
+        $test_name  | $99testname
+        $_testname  | $test%name
+        $test-name  | -
+        $testName  | -
+        $testname99  | -
+
+
+## echo vs print ##   
+    - echo & print are more or less the same
+    - echo has no return value while print has a return value of 1.
+    - echo can take multiple parameters.
+    - echo is marginally faster than print.
+
 
 
 
