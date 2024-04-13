@@ -6,7 +6,7 @@
 
 - PHP
     - is a Server Side Scripting Language.
-    - is a Open Source.
+    - is Open Source.
     - is Easy to Learn & Code.
     - is faster then other scripting language.
     - runs on Different Platform like Windows, Linux, Mac etc.
@@ -58,6 +58,24 @@
 - print_r() displays human-readable information about a variable.
 - print_r() displays only value as output.
 - print_r() mostly use in array.
+
+## Operators ##
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators ...
+
+#### Arithmetic operators ####
+
+Operator | Name | Example
+| :--- | ---: | :---:
+ '+' | Addition | $x + $y
+ '-' | Subtraction | $x - $y
+ '*' | Multiplication | $x * $y
+ '/' | Division | $x / $y
+ '%' | Modulus | $x % $y
+ '**' | Exponentiation | $x ** $y
+
 
 
 
