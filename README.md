@@ -65,8 +65,8 @@
 - Comparison operators
 - Logical operators ...
 
-#### Arithmetic operators ####
 
+#### Arithmetic operators ####
 Operator | Name | Example
 | :--- | ---: | :---:
  '+' | Addition | $x + $y
@@ -77,6 +77,38 @@ Operator | Name | Example
  '**' | Exponentiation | $x ** $y
 
 
+#### Assignment operators #### 
+Assignment | Same as... | Description
+| :--- | ---: | :---:
+ x = y | x = y | Left & Right equal
+ x += y | x = x + y | Addition
+ x -= y | x = x - y | Subtraction
+ x *= y | x = x * y | Multiplication
+ x /= y | x = x / y | Division
+ x %= y | x = x % y | Modulus
 
+
+#### Comparison operators #### 
+Operator | Name | Example
+| :--- | ---: | :---:
+ '==' | Equal | $x == $y
+ '===' | Identical | $x === $y
+ '!=' | Not equal | $x != $y
+ '!==' | Not identical | $x !== $y
+ '>' | Greater than | $x > $y
+ '<' | Less than | $x < $y
+ '>=' | Greater than or equal to | $x >= $y
+ '<=' | Less than or equal to | $x <= $y
+
+
+#### Logical operators #### 
+Operator | Name | Example
+| :--- | ---: | :---:
+ 'and' | And | $x and $y
+ 'or' | Or | $x or $y
+ 'xor' | Xor | $x xor $y
+ '&&' | And | $x && $y
+ '||' | Or | $x || $y
+ '!' | Not | $x ! $y
 
 
