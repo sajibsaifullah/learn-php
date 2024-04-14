@@ -112,3 +112,16 @@ Operator | Name | Example
  '!' | Not | $x ! $y
 
 
+## Conditional statement ##
+- if...else
+- if...elseif...else
+- switch
+
+
+## Loops ##
+- while loop
+- do...while loop
+- for loop
+- forEach loop
+
+
