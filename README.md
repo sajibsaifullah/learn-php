@@ -108,7 +108,7 @@ Operator | Name | Example
  'or' | Or | $x or $y
  'xor' | Xor | $x xor $y
  '&&' | And | $x && $y
- '||' | Or | $x || $y
+ 'II' | Or | $x II $y
  '!' | Not | $x ! $y
 
 
