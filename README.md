@@ -163,3 +163,14 @@ Operator | Name | Example
 #### split-chunk ####
 - str_split() : splits a string into an array.
 - chunk_split() : splits a string into a series of smaller parts.
+
+## Math Function ##
+- abs()
+- ceil()
+- floor()
+- max()
+- min()
+- pi()
+- pow()
+- rand()
+- sqrt() ..
