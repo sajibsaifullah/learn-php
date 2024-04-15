@@ -31,7 +31,6 @@
         $testname  | $test name
         $test_name  | $99testname
         $_testname  | $test%name
-        $test-name  | -
         $testName  | -
         $testname99  | -
 
@@ -123,5 +122,44 @@ Operator | Name | Example
 - do...while loop
 - for loop
 - forEach loop
+- break
+- continue
 
 
+## String Function ##
+
+#### upper-lower #### 
+- strtolower()
+- strtoupper()
+- ucfirst
+- lcfirst()
+- ucword() ...
+
+#### length-count ####
+- strlen()
+- srt_word_count() 
+- subsrt_count() ...
+
+#### replace ####
+- str_replace() 
+- str_ireplace()
+- substr_replace()
+- strtr()
+
+#### explode-implode ####
+- explode() : breaks a string into an array.
+- implode() : returns a string from the element of an array.
+
+#### search-find ####
+- strpos()
+- stripos()
+- strrpos()
+- strripos()
+
+#### strip-tags-wordwrap ####
+- strip-tags()
+- wordwrap()
+
+#### split-chunk ####
+- str_split() : splits a string into an array.
+- chunk_split() : splits a string into a series of smaller parts.
