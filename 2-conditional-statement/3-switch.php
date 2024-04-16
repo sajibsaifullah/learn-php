@@ -1,5 +1,5 @@
 <?php 
-    $color = "green";
+    $color = "blue";
 
     switch($color){
         case "red":
@@ -24,7 +24,7 @@
 
     // another example
 
-    $mark = 85;
+    $mark = 60;
 
     switch(true){
         case ($mark >= 80):

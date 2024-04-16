@@ -1,6 +1,6 @@
 <?php 
-    $x;
-    $y = 10;
+    $x = 5;
+    $y;
 
     if(isset($x) && isset($y)){
         echo $x + $y;

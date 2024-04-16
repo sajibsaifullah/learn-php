@@ -1,5 +1,5 @@
 <?php 
-    $country = array("Bangladesh", "India", "Pakistan", "Nepal");
+    $country = array("Bangladesh", "India", "Pakistan", "Nepal", "Srilanka");
 
     foreach($country as $value){
         echo $value . "<br>";
