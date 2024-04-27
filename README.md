@@ -186,6 +186,14 @@ Operator | Name | Example
 - Associative array
 - Multidimensional array
 
+#### sort-function #### 
+- sort() : sort arrays in ascending order.
+- rsort() : sort arrays in descending order.
+- asort() : sort associative arrays in ascending order, according to the value.
+- arort() : sort associative arrays in descending order, according to the value.
+- ksort() : sort associative arrays in ascending order, according to the key.
+- krsort() : sort associative arrays in descending order, according to the key
+
 
 
 
