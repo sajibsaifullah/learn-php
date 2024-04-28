@@ -16,9 +16,9 @@
         "Aslam" => 35
     );
 
-    foreach ($infos as $key => $info) {
+    foreach ($infos as $key => $value) {
         echo '<pre>';
-            echo "<h4>My name is $key. I'm $info years old.</h4>" ;
+            echo "<h4>My name is $key. I'm $value years old.</h4>" ;
         echo '</pre>';
     }
     
